@@ -96,7 +96,7 @@
 	<li><a href="https://build-system.fman.io/qt-designer-download">&nbsp;&nbsp;&nbsp;&nbsp;QtDesigner (Windows & Mac)</a></li>
 </ul>
 
-<p><h2>Ejemplos de GUI</h2></p>
+<p><h2>Ejemplos</h2></p>
 <ul>
   <img src="game.png" width="350" alt="Juego de Tic Tac Toe">
    <img src="editor.png" width="350" alt="Editor de texto">
