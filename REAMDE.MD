@@ -96,6 +96,16 @@
 	<li><a href="https://build-system.fman.io/qt-designer-download">&nbsp;&nbsp;&nbsp;&nbsp;QtDesigner (Windows & Mac)</a></li>
 </ul>
 
+<p><h2>Ejemplos de Aplicaciones</h2></p>
+<ul>
+  <img src="game.png" width="350" alt="Juego de Tic Tac Toe">
+   <img src="editor.png" width="350" alt="Editor de texto">
+   <img src="wahatspy.png" width="350" alt="WhatsPy">
+
+</ul>
+
+
+
 <p><h2>Comandos</h2></p>
 <ul>
 	<li>&nbsp;&nbsp;&nbsp;&nbsp;Instalar PyQt5: <em>pip install pyqt5</em></li>
